@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "叫ぶ星",
+  "base_artist": "ストレイテナー",
+  "createdAt": "2026-03-06T15:31:33.095990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "叫ぶ星",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/01_叫ぶ星_Straightener.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "叫ぶ星",
+      "artist": "ストレイテナー",
+      "has_synced": false,
+      "path": "select/pl_01_叫ぶ星_ストレイテナー.txt"
+    }
+  ]
+}
